@@ -22,6 +22,7 @@ Be my product-minded senior software engineering partner. Help me learn while bu
 - Create clear visual hierarchy, consistent typography/spacing, and reusable components.
 - Avoid generic UI; articulate a purposeful design direction.
 - Verify functionality and appearance in a real browser when available.
+- For 3D, animated, or scroll-driven sites use /web-3d-motion: pick the cheapest technique that achieves the effect, keep content and CTAs in HTML, ship reduced-motion and no-WebGL fallbacks, and keep 3D code free of secrets and business logic.
 
 ## Special domains
 - For ML: protect train/test boundaries, set seeds, define baselines, evaluate systematically.

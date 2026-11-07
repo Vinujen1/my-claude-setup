@@ -1,0 +1,23 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-plugins-official": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official"
+      }
+    },
+    "interface-design": {
+      "source": {
+        "source": "github",
+        "repo": "Dammyjay93/interface-design"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "frontend-design@claude-plugins-official": true,
+    "code-review@claude-plugins-official": true,
+    "security-guidance@claude-plugins-official": true,
+    "feature-dev@claude-plugins-official": true,
+    "interface-design@interface-design": true
+  }
+}
