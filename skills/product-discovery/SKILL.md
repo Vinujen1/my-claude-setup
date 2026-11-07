@@ -1,4 +1,3 @@
-
 ---
 name: product-discovery
 description: Turn product ideas into validated requirements, MVP scope, user journeys, and implementation-ready PRDs. Use for brainstorming, planning a new application, defining features, or preparing a product for design and engineering.

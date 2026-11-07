@@ -1,4 +1,3 @@
-
 ---
 name: backend-engineer
 description: Design, implement, debug, test, and optimize secure backend services, REST APIs, authentication, authorization, background jobs, and external integrations using Python, FastAPI, Node.js, and other backend frameworks.

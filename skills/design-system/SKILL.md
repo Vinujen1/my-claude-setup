@@ -1,4 +1,3 @@
-
 ---
 name: design-system
 description: Create, extend, and audit professional design systems for websites, SaaS products, dashboards, mobile interfaces, and applications. Use for visual direction, typography, colors, spacing, design tokens, reusable components, responsive design, accessibility, and design-to-code handoffs.

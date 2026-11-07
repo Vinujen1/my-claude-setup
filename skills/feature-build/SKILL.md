@@ -1,4 +1,3 @@
-
 ---
 name: feature-build
 description: Implement, modify, debug, and verify software features in existing or new projects. Use when building frontend or backend functionality, integrating APIs, fixing defects, refactoring code, or implementing approved technical designs.

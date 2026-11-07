@@ -1,4 +1,3 @@
-
 ---
 name: ui-ux-audit
 description: Evaluate and improve the user experience, visual design, accessibility, responsiveness, navigation, and interaction quality of websites, dashboards, SaaS products, and applications. Use when reviewing an interface, identifying UX problems, or preparing design improvements.

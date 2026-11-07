@@ -1,4 +1,3 @@
-
 ---
 name: ai-ml-engineer
 description: Design, implement, train, evaluate, optimize, and deploy AI/ML systems. Use for PyTorch, deep learning, NLP, embeddings, RAG, computer vision, LLM applications, inference APIs, and MLOps.

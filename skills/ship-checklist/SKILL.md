@@ -1,4 +1,3 @@
-
 ---
 name: ship-checklist
 description: Verify software release and production readiness using evidence from builds, tests, security checks, deployment configuration, and operational safeguards. Use before shipping, deploying, publishing, or releasing an application.

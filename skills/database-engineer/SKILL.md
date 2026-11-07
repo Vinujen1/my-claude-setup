@@ -1,4 +1,3 @@
-
 ---
 name: database-engineer
 description: Design, implement, review, optimize, and secure databases. Use for PostgreSQL, Supabase, SQL queries, relational modeling, schemas, migrations, indexing, transactions, backups, and database performance.

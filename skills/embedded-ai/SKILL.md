@@ -1,4 +1,3 @@
-
 ---
 name: embedded-ai
 description: Design, build, debug, and validate embedded AI and robotics systems using Jetson, Raspberry Pi, cameras, sensors, edge inference, hardware communication, and safe actuator control.

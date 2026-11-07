@@ -1,4 +1,3 @@
-
 ---
 name: security-audit
 description: Review application source code, dependencies, APIs, authentication, authorization, databases, and deployment configurations for security risks. Use before deployment, after sensitive feature changes, or when reviewing application security.

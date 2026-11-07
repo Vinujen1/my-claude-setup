@@ -1,4 +1,3 @@
-
 ---
 name: systems-design
 description: Design, evaluate, document, and improve software architectures, including full-stack applications, distributed systems, databases, cloud infrastructure, AI/ML platforms, and robotics systems. Use for architecture planning, technical design documents, API contracts, scaling, security, reliability, and engineering handoffs.

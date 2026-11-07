@@ -1,4 +1,3 @@
-
 ---
 name: devops-engineer
 description: Configure, automate, deploy, monitor, and troubleshoot software infrastructure. Use for Docker, GitHub Actions, CI/CD, Vercel, AWS, Azure, cloud hosting, infrastructure as code, deployment reliability, and observability.
